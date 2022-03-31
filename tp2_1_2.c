@@ -9,8 +9,8 @@
 int main()
 {
    int i;
-   double *p;
-   double vt[N];
+   int *p;
+   int vt[N];
    p = vt;
    srand((int)time(NULL));
 
