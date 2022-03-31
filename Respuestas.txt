@@ -1,0 +1,1 @@
+No no puedo ver el archivo tp2_1_2.c, ya que volvimos a  la rama principal en la cual nunca existio dicho archivo
