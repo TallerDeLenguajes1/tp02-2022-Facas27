@@ -9,12 +9,15 @@
 int main()
 {
    int i;
-    double vt[N];
-    srand((int)time(NULL));
+   double *p;
+   double vt[N];
+   p = vt;
+   srand((int)time(NULL));
+
     for(i = 0;i<N; i++)
     {
-    vt[i]=1+rand()%100;
-    printf("%d" , vt[i]);
+    *(p+i)=1+rand()%100;
+    printf("%d" , p[i]);
     }
 
     return 0;
