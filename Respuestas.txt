@@ -1,1 +1,3 @@
 No no puedo ver el archivo tp2_1_2.c, ya que volvimos a  la rama principal en la cual nunca existio dicho archivo
+
+Lo que note de diferencia a la hora de volver  a poner gitk es que ahora la linea principal (master) siguio, y no altero a la secundaria, osea que puedo seguir trabajando tranquilamente en la master teniendo a la segunda rama para unirla si en algun momento quiero juntarlas
